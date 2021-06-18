@@ -3,9 +3,10 @@ h1{
     color: rgb(187, 77, 14);
     font-size: 80px;
     background: url(nnn.jpg);
+    background-attachment: fixed;
 }
 h1,p{
-    color: rgb(41, 38, 2);
+    color: gold;
 }
 *{background-color: rgb(75, 77, 10);
 font-size: x-large;}
@@ -28,6 +29,20 @@ font-size: x-large;}
 .container{
     width: max-content;
     height: 400px;
+}
     
-    
+
+.abimage{
+    width: 50%;
+
+}
+.imagecont{
+    display: flex;
+    justify-content: center;
+}
+.image_size{
+    width: 150%;
+}
+.mmm{
+    background-image:url(GG.jpg) ;
 }
