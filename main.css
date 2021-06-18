@@ -1,0 +1,33 @@
+
+h1{
+    color: rgb(187, 77, 14);
+    font-size: 80px;
+    background: url(nnn.jpg);
+}
+h1,p{
+    color: rgb(41, 38, 2);
+}
+*{background-color: rgb(75, 77, 10);
+font-size: x-large;}
+
+.center{
+    text-align: center;
+}
+.makemered{
+    color: brown;
+}
+#paragrod{
+    background-color: rgb(164, 167, 6);
+}
+*{
+    box-sizing: border-box;
+    padding: 50px;
+
+}
+
+.container{
+    width: max-content;
+    height: 400px;
+    
+    
+}
